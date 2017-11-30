@@ -1,0 +1,14 @@
+E:\C#\QuanLiSach\QuanLiSach\bin\Debug\QuanLiSach.exe.config
+E:\C#\QuanLiSach\QuanLiSach\obj\Debug\QuanLiSach.Form1.resources
+E:\C#\QuanLiSach\QuanLiSach\obj\Debug\QuanLiSach.Properties.Resources.resources
+E:\C#\QuanLiSach\QuanLiSach\obj\Debug\QuanLiSach.Sach.resources
+E:\C#\QuanLiSach\QuanLiSach\obj\Debug\QuanLiSach.csproj.GenerateResource.Cache
+E:\C#\QuanLiSach\QuanLiSach\bin\Debug\QuanLiSach.exe
+E:\C#\QuanLiSach\QuanLiSach\bin\Debug\QuanLiSach.pdb
+E:\C#\QuanLiSach\QuanLiSach\obj\Debug\QuanLiSach.exe
+E:\C#\QuanLiSach\QuanLiSach\obj\Debug\QuanLiSach.pdb
+E:\C#\QuanLiSach\QuanLiSach\obj\Debug\QuanLiSach.TheLoai.resources
+E:\C#\QuanLiSach\QuanLiSach\obj\Debug\QuanLiSach.NhaXuatBan.resources
+G:\BaiTap\C#\QuanLiSach\QuanLiSach\bin\Debug\QuanLiSach.exe.config
+G:\BaiTap\C#\QuanLiSach\QuanLiSach\obj\Debug\QuanLiSach.exe
+G:\BaiTap\C#\QuanLiSach\QuanLiSach\obj\Debug\QuanLiSach.pdb
